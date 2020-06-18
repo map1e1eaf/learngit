@@ -2,3 +2,4 @@ hello，git！
 This is my first git file.
 
 First,let me to test git order.
+I have ADD A NEW FILE IN THE MASTER FOLDER.
